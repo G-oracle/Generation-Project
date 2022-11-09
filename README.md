@@ -1,5 +1,5 @@
 # Generation-Project
-                        ## Final Python Project
+  ## Final Python Project
 
 Students will create a python program to process and table a payroll report.
 
@@ -26,4 +26,4 @@ The Output should look the following:
 
 
 
-                    The program should run and be able to process 10 employees before ending.
+The program should run and be able to process 10 employees before ending.
